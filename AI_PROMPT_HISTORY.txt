@@ -41,3 +41,5 @@ please identify the probem descripion.
 
 3. please solve this problem using c++. please use class, stl. don't implement too much, just focus on the implementation only.
 
+
+# Conversation link: https://chatgpt.com/share/6ab757a3-c0c8-83e8-9721-70f1eb943f73
