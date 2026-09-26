@@ -221,7 +221,7 @@ Recommended:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone git@github.com:sakib-333/lru-cache.git
 cd lru-cache
 ```
 
